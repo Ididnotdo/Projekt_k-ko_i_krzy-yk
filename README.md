@@ -13,7 +13,7 @@ Ty zaczynasz:
 
 ![image](https://user-images.githubusercontent.com/105642980/173440307-ba808d8c-90f3-4985-95b8-58bdd1841e61.png)
 
-- program odpowie staiwając krzyzyk:
+- program odpowie stawiając krzyzyk:
 
 ![image](https://user-images.githubusercontent.com/105642980/173440607-dd4cf063-49ce-4d70-9179-918a711cc69e.png)
 
