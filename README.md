@@ -1,4 +1,10 @@
 # Projekt_kółko_i_krzyżyk
+---
+Program używa biblioteki allegro 5 - można ją łatwo zainstalować w Visual Studio Code:
+linki:
+https://gamefromscratch.com/allegro-tutorial-series-part-1-getting-started/
+https://github.com/liballeg/allegro_wiki/wiki/Allegro-in-Visual-Studio#using-nuget-within-visual-studio
+---
 
 ![image](https://user-images.githubusercontent.com/105642980/173440121-73749014-4e56-44e5-b9cf-0fcd7e849e69.png)
 
