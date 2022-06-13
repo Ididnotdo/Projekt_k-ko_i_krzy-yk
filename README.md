@@ -6,6 +6,10 @@ https://gamefromscratch.com/allegro-tutorial-series-part-1-getting-started/
 https://github.com/liballeg/allegro_wiki/wiki/Allegro-in-Visual-Studio#using-nuget-within-visual-studio
 ---
 
+Program zawsze wygrywa lub remisuje w kółko i krzyżyk!
+-- używa do tego rekurencji - symuluje rozegranie partii i zwraca najlepszy ruch--
+
+
 ![image](https://user-images.githubusercontent.com/105642980/173440121-73749014-4e56-44e5-b9cf-0fcd7e849e69.png)
 
 Ty zaczynasz:
