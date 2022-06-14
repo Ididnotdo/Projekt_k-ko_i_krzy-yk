@@ -1,10 +1,10 @@
 # Projekt_kółko_i_krzyżyk
----
+
 Program używa biblioteki allegro 5 - można ją łatwo zainstalować w Visual Studio Code:
 linki:
 https://gamefromscratch.com/allegro-tutorial-series-part-1-getting-started/
 https://github.com/liballeg/allegro_wiki/wiki/Allegro-in-Visual-Studio#using-nuget-within-visual-studio
----
+
 
 Program zawsze wygrywa lub remisuje w kółko i krzyżyk!
 -- używa do tego rekurencji - symuluje rozegranie partii i zwraca najlepszy ruch--
